@@ -1,3 +1,7 @@
+---
+icon: coin-front
+---
+
 # Tokenomics
 
 ### Pre-Sale
