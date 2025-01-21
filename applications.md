@@ -1,4 +1,5 @@
 ---
+icon: mobile-button
 layout:
   title:
     visible: true

@@ -1,4 +1,5 @@
 ---
+icon: store
 layout:
   title:
     visible: true
